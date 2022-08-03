@@ -1,0 +1,24 @@
+Comandos:
+
+git add: Adiciona um arquivo;
+
+git config --global user.name : setar usuario;
+
+git config --global user.email : setar email;
+
+git rm meu_arquivo.txt : remover arquivo;
+
+git log : exibir historico;
+
+git remote : exibir os repositorios remotos;
+
+git rm meu_arquivo.txt : remover arquivo;
+
+git rm -r diretorio : remover diretório;
+
+git remote rename origin curso-git: renomear um repositório remoto;
+
+git pull: Atualizar os arquivos no branch atual.
+
+
+
